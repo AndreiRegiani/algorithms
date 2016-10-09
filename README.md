@@ -1,4 +1,5 @@
 # algorithms
+[![Build Status](https://travis-ci.org/AndreiRegiani/algorithms.svg?branch=master)](https://travis-ci.org/AndreiRegiani/algorithms)
 
 ### Problem 1
 ```

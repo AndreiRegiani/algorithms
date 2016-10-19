@@ -12,8 +12,6 @@ import doctest
 
 def special_sort(line_input):
     """
-    Unit tests:
-
     >>> special_sort('1')
     '1'
 

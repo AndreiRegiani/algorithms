@@ -26,3 +26,11 @@ Return: 11
 
 (...) full description on /problem-2/description.txt
 ```
+
+### Problem 3
+```
+Write a function `reverse_words()` that takes a string message and reverses the order of the words in-place.
+
+Input : find you will pain only go you recordings security the into if
+Output: if into the security recordings you go only pain will you find
+```

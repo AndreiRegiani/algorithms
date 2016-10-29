@@ -21,16 +21,17 @@ but could be very large. The array is either entirely comprised of odd integers
 or entirely comprised of even integers except for a single integer N.
 Write a function that takes the array as an argument and returns N.
 
-[2, 4, 0, 100, 4, 11, 2602, 36]
-Return: 11
+Input  : [2, 4, 0, 100, 4, 11, 2602, 36]
+Output : 11
 
 (...) full description on /problem-2/description.txt
 ```
 
 ### Problem 3
 ```
-Write a function `reverse_words()` that takes a string message and reverses the order of the words in-place.
+Write a function that takes a message and reverses the order
+of the words *in-place*.
 
-Input : find you will pain only go you recordings security the into if
-Output: if into the security recordings you go only pain will you find
+Input : others on depend not do salvation own your out work
+Output: work out your own salvation do not depend on others
 ```

@@ -1,0 +1,5 @@
+Write a function that takes a message and reverses the order
+of the words *in-place*.
+
+Input : others on depend not do salvation own your out work
+Output: work out your own salvation do not depend on others

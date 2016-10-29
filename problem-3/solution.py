@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+""" Solution by Andrei Regiani - https://regiani.xyz """
+
 import doctest
 
 

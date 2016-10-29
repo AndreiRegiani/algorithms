@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
+""" Solution by Andrei Regiani - https://regiani.xyz """
+
 import doctest
 
 
-# simple solution
+# Quick solution
 def solution_1(int_list):
     """
     >>> solution_1([2, 4, 0, 100, 4, 11, 2602, 36])
@@ -42,5 +44,5 @@ def solution_2(int_list):
                 return i
 
 
-doctest.testmod()
-print("If no doctest errors, then it's all good.")
+if not doctest.testmod().failed:
+    print("Unit tests passed")

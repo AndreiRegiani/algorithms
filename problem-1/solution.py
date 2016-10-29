@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Solution by Andrei Regiani
-https://regiani.xyz
-"""
+""" Solution by Andrei Regiani - https://regiani.xyz """
 
 import sys
 import doctest
@@ -60,7 +55,7 @@ def main():
     doctest.testmod()
     while True:
         try:
-            line = input('Input: ')  # space-separated values
+            line = input('Input:  ')  # space-separated values
         except KeyboardInterrupt:
             sys.exit(0)
         print('Output:', special_sort(line), '\n')

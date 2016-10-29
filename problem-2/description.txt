@@ -3,13 +3,11 @@ but could be very large. The array is either entirely comprised of odd integers
 or entirely comprised of even integers except for a single integer N.
 Write a function that takes the array as an argument and returns N.
 
-For example:
+Input : [10, 5, 20]
+Output: 5
 
-[10, 5, 20]
-Return: 5
+Input : [2, 4, 0, 100, 4, 11, 2602, 36]
+Output: 11
 
-[2, 4, 0, 100, 4, 11, 2602, 36]
-Return: 11
-
-[160, 3, 1719, 19, 11, 13, -21]
-Return: 160
+Input : [160, 3, 1719, 19, 11, 13, -21]
+Output: 160

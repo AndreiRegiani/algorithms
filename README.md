@@ -14,7 +14,6 @@ Output: bus car 1 4 truck 6 8
 ```
 
 ### Problem 2
-[See Benchmarks](https://github.com/Hackermen/python-experiments/blob/master/benchmark-1.py) of different implementations by me and others guys.
 ```
 You are given an array which will have a length of at least 3,
 but could be very large. The array is either entirely comprised of odd integers
@@ -26,6 +25,7 @@ Output : 11
 
 (...) full description on /problem-2/description.txt
 ```
+Benchmarks comparing performance of different implementations: [See Benchmarks 1](https://github.com/Hackermen/python-experiments)
 
 ### Problem 3
 ```

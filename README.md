@@ -35,3 +35,20 @@ of the words *in-place*.
 Input : others on depend not do salvation own your out work
 Output: work out your own salvation do not depend on others
 ```
+
+### Problem 4
+```
+Write three functions that compute the sum of the numbers in a
+given list using a for-loop, a while-loop, and recursion.
+
+Input : [2, 3, 5, 10, 80]
+Output: 100
+```
+
+### Problem 5
+```
+Write a function that combines two lists by alternatingly taking elements.
+
+Input : [a, b, c], [1, 2, 3]
+Output: [a, 1, b, 2, c, 3]
+```

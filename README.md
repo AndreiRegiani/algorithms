@@ -52,3 +52,12 @@ Write a function that combines two lists by alternatingly taking elements.
 Input : [a, b, c], [1, 2, 3]
 Output: [a, 1, b, 2, c, 3]
 ```
+
+### Problem 6
+```
+Write a function that given a list of non-negative integers, 
+arranges them such that they form the largest possible number. 
+
+Input  : [50, 2, 1, 9]
+Output : 95021
+```

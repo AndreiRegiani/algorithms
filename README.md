@@ -61,3 +61,14 @@ arranges them such that they form the largest possible number.
 Input  : [50, 2, 1, 9]
 Output : 95021
 ```
+
+### Problem 7
+```
+Find out which one of the given numbers differs from the others.
+
+Input  : "2 4 7 8 10"
+Output : 3
+
+Input  : "1 2 1 1"
+Output : 2
+```

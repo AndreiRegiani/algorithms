@@ -10,4 +10,4 @@ Input  : "2 4 7 8 10"  # third number is odd, while the rest of the numbers are 
 Output : 3
 
 Input  : "1 2 1 1"  # second number is even, while the rest of the numbers are odd
-Output  : 2
+Output : 2

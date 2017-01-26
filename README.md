@@ -88,3 +88,16 @@ Output: 'Bart & Lisa'
 Input : [{'name': 'Bart'}]
 Output: 'Bart'
 ```
+
+### Problem 9
+```
+Complete the method/function so that it converts dash/underscore delimited
+words into camel casing. The first word within the output should be capitalized
+only if the original word was capitalized.
+
+Input : "the_stealth_warrior"
+Output: "theStealthWarrior"
+
+Input : "The-Stealth-Warrior"
+Output: "TheStealthWarrior"
+```

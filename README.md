@@ -101,3 +101,15 @@ Output: "theStealthWarrior"
 Input : "The-Stealth-Warrior"
 Output: "TheStealthWarrior"
 ```
+
+### Problem 10
+```
+Write a function cakes(), which takes the recipe (dict) and the available
+ingredients (dict) and returns the maximum number of cakes Pete can
+bake (integer).
+
+recipe = {"flour": 500, "sugar": 200, "eggs": 1}
+available = {"flour": 1200, "sugar": 1200, "eggs": 5, "milk": 200}
+Input : cakes(recipe, available)
+Output: 2
+```
